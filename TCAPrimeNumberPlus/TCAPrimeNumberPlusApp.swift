@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct TCAPrimeNumberPlusApp: App {
+    let state = AppState()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(state: state)
         }
     }
 }
