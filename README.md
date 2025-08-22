@@ -10,11 +10,11 @@ An extended version of the Prime Number app from the Point-Free SwiftUI and Stat
 - Modern SwiftUI Design: Clean and responsive UI built with SwiftUI.
 - iOS Compatibility: Supports iOS 15 and iOS 16 for broader accessibility.
 
-🎥 ## Demo
+## 🎥 Demo
 
 https://github.com/user-attachments/assets/6c7a86a7-ab4a-4672-ab81-c9a7b637a477
 
-📱 ## Usage
+## 📱 Usage
 
 ### Check Prime Numbers
 
