@@ -33,15 +33,15 @@ The app keeps a count of how many numbers you've checked for primality.
 
 ## 🤝 Contributing
 
-Fork the repository. 🍴
-Create a new branch (git checkout -b feature/your-feature). 🌱
-Make your changes and commit (git commit -m 'Add your feature'). ✍️
-Push to your branch (git push origin feature/your-feature). 🚀
-Open a Pull Request. 📬
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature).
+- Make your changes and commit (git commit -m 'Add your feature').
+- Push to your branch (git push origin feature/your-feature).
+- Open a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the (MIT License)[README.md].
+This project is licensed under the [MIT License](README.md).
 
 ## 🙌 Acknowledgments
 
