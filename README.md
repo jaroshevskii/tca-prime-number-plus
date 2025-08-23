@@ -52,7 +52,3 @@ Special thanks to the Swift community for their ongoing support and contribution
 📧 ## Contact
 
 For questions or feedback, feel free to open an issue.
-
----
-
-© 2025 JaroshevskiiBuilt with love by @jaroshevskii 💖
