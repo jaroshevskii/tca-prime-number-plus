@@ -49,6 +49,6 @@ Inspired by the Point-Free SwiftUI and State Management lesson.
 Built with The Composable Architecture by Point-Free.
 Special thanks to the Swift community for their ongoing support and contributions.
 
-📧 ## Contact
+## 📧 Contact
 
 For questions or feedback, feel free to open an issue.
